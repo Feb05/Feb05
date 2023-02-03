@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Feb05/Feb05/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
@@ -12,7 +12,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/Feb05/Feb05/issues/new"><b>here</b></a><br>
 or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
@@ -21,7 +21,7 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Feb05&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Feb05's Github Stats">
 
 </br>
 </br>
@@ -29,7 +29,7 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+[![HitCount](http://hits.dwyl.com/Feb05/Feb05.svg)](http://hits.dwyl.com/Feb05/Feb05)
 
 <i>Follow me around the web:</i><br>
 
@@ -43,14 +43,14 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/Feb05" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
 
 <!-- [🇱🇮🇳🇰🇪🇩🇮🇳](https://www.linkedin.com/in/absphreak/) ● [🇮🇳🇸🇹🇦🇬🇷🇦🇲](https://www.instagram.com/absphreak/) ● [🇫🇦🇨🇪🇧🇴🇴🇰](https://www.facebook.com/originalphreak/) ● [🇸🇵🇴🇹🇮🇫🇾](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
 <!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Feb05/Feb05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -65,6 +65,3 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [ABSphreak](https://github.com/ABSphreak)
-
-Last Edited on: 30/08/2020
